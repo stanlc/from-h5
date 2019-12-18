@@ -1,0 +1,21 @@
+/* 全局通用样式 */
+
+.wrapper {
+	width: 100%;
+  min-height: 100vh;
+  padding-bottom: 10px;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
+}
+
+.wrapper img.banner {
+	vertical-align: top
+}
+
+
+
+/* 重置cube-ui样式 */
+
+/* 重置cube-ui样式 end*/
